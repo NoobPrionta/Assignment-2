@@ -456,3 +456,68 @@ font-size: 4rem;
 
 
 
+/* footer section started from here  */
+
+.footer{
+    max-width: 1600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footer .flex-icon-link{
+    display: flex;
+    justify-content: center;
+    gap: 4px;
+}
+
+.footer-flex{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    position: absolute;
+    top: 212px;
+    left: 548px;
+}
+
+.footer-description{
+    position: absolute;
+    top:268px;
+    left: 610px;
+}
+
+.grid-cart-section-paragraph-2{
+    color: #FFFFFF;
+    opacity: 0.6;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.footer-heading{
+    position: absolute;
+    top: 120px;
+    left: 595px;
+    font-size: 5rem ;
+    padding-bottom: 8px;
+}
+
+.footer h3 .Coloring-wave{
+    background: linear-gradient(
+    to right,
+    rgba(247, 233, 63, 1),
+    rgba(251, 9, 180, 1),
+    rgba(145, 0, 248, 1)
+  );
+
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.Tech-footer{
+    color: white;
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+
+
+
